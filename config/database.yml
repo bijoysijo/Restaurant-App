@@ -3,7 +3,7 @@ development:
   encoding: unicode
   database: demo_test_development
   pool: 5
-  username: dave
+  username: bijoysijo
   password:
   timeout: 5000
 
@@ -12,6 +12,6 @@ test:
   encoding: unicode
   database: demo_test_test
   pool: 5
-  username: dave
+  username: bijoysijo
   password:
   timeout: 5000
